@@ -1,0 +1,33 @@
+DIGITAL LITERACY PROJECT REPORT
+
+Name: Supriya
+Project Title:
+Digital Literacy Portfolio Project
+
+Introduction:
+This project was created to improve my digital literacy skills and demonstrate my understanding of various digital platforms and tools. The project includes creating an infographic, building professional online profiles, designing a quiz using Google Forms, and practicing coding on HackerRank.
+
+Task 1: Infographic Creation
+In Task 1, I created a digital literacy awareness infographic using Canva. The infographic explains the importance of safe internet usage, strong passwords, cyber security awareness, and responsible use of digital platforms.
+
+Task 2: Professional Profile Creation
+In Task 2, I created and updated my professional profiles on GitHub, LinkedIn, and HackerRank. These platforms help students build their technical identity and showcase their skills online.
+
+Task 3: Google Form Quiz
+In Task 3, I created a Google Form quiz related to digital literacy awareness. The quiz includes multiple-choice questions and helps users test their knowledge about cyber security and safe internet practices.
+
+Task 4: Documentation
+This report explains all the tasks completed in this project and the tools used during the process.
+
+Tools Used:
+GitHub
+Canva
+Google Forms
+LinkedIn
+HackerRank
+
+Learning Outcomes:
+Through this project, I learned how to create digital content, manage professional profiles, use version control with GitHub, and design online quizzes. This project improved my confidence in using digital tools effectively.
+
+Conclusion:
+This project helped me understand the importance of digital literacy and how technology can be used responsibly and professionally for learning and development.
